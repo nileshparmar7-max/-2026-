@@ -1,5 +1,5 @@
 const CONFIG={
-  backendUrl:'https://script.google.com/macros/s/AKfycbwUkI9NE2sIOtRkw-hxq5ehqATqY07n2kpa7tGupxyyvrjP7wlp1Btr7ssGHEqIFuPCRA/exec',
+  backendUrl:'AKfycbwUkI9NE2sIOtRkw-hxq5ehqATqY07n2kpa7tGupxyyvrjP7wlp1Btr7ssGHEqIFuPCRA',
   event:{name:'યુવા સંમેલન 2026',area:'વટવા નગર',date:'તમારી તારીખ અહીં',time:'તમારો સમય અહીં',venue:'વટવા નગર, અમદાવાદ'},
   confirmation:{sender:'યુવા સંમેલન 2026 – વટવા નગર',adminWhatsapp:'PASTE_ADMIN_WHATSAPP_NUMBER'}
 };
